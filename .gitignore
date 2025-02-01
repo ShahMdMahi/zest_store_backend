@@ -48,4 +48,11 @@ htmlcov/
 .env.*.local
 
 # MongoDB
-mongod.lock 
+mongod.lock
+
+# Vercel
+.vercel
+.vercel/
+
+# Vercel
+.vercel 
